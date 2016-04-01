@@ -4,3 +4,35 @@ body {
 
 
 }
+
+
+p {color: blue} /*  base color */
+
+#p1 {
+
+	width: 80%;
+}
+#p2 {
+	width; 150px
+	height
+}
+
+@media1 (max-width: 767px), (min-width: 992px) {
+
+	p {
+		color: blue;
+	}
+}
+@media2 (min-width: 768px) and (max-width: 991px) {
+
+	p {
+		color: blue;
+	}
+}
+@media3 (min-width: 992px) {
+
+	p {
+		color: blue;
+	}
+}
+
