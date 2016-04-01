@@ -38,4 +38,82 @@ p {color: blue} /*  base color */
 		color: blue;
 	}
 }
+.row {
+
+	width: 100%;
+}
+/* 12 columns layout */
+@media (min-width: 992px) {
+ 
+  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6 {
+  	float: left;
+  	border: 1px solid green;
+    }
+
+
+
+	.col-lg-1 {
+
+	  width: 8.33%;
+	}
+
+	.col-lg-2 {
+
+	  width: 16.66%;
+	}
+	.col-lg-3 {
+
+	  width: 25%;
+	}
+	.col-lg-4 {
+
+	  width: 33%;
+	}
+	.col-lg-5 {
+
+	  width: 41.66%;
+	}
+	.col-lg-6 {
+
+	  width: 50%;
+	}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6 {
+  	float: left;
+  	border: 1px solid green;
+    }
+
+
+	.col-md-1 {
+
+	  width: 8.33%;
+	}
+
+	.col-md-2 {
+
+	  width: 16.66%;
+	}
+	.col-md-3 {
+
+	  width: 25%;
+	}
+	.col-md-4 {
+
+	  width: 33%;
+	}
+	.col-md-5 {
+
+	  width: 41.66%;
+	}
+	.col-md-6 {
+
+	  width: 50%;
+	}
+}
+
 
