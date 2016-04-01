@@ -20,24 +20,7 @@ p {color: blue} /*  base color */
 	height: 150px;
 }
 
-@media1 (max-width: 767px), (min-width: 992px) {
 
-	p {
-		color: blue;
-	}
-}
-@media2 (min-width: 768px) and (max-width: 991px) {
-
-	p {
-		color: blue;
-	}
-}
-@media3 (min-width: 992px) {
-
-	p {
-		color: blue;
-	}
-}
 .row {
 
 	width: 100%;
@@ -84,7 +67,7 @@ p {color: blue} /*  base color */
 
 
 	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6 {
-  	float: left;
+  	float: left; 
   	border: 1px solid green;
     }
 
