@@ -9,12 +9,13 @@ body {
 p {color: blue} /*  base color */
 
 #p1 {
-
+    background-color: #A52A2A;
 	width: 80%;
 }
 #p2 {
-	width; 150px
-	height
+	background-color: #DEB887;
+	width: 150px;
+	height: 150px;
 }
 
 @media1 (max-width: 767px), (min-width: 992px) {
