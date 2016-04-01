@@ -10,7 +10,9 @@ p {color: blue} /*  base color */
 
 #p1 {
     background-color: #A52A2A;
-	width: 80%;
+    width: 250px;
+	height: 250px;
+
 }
 #p2 {
 	background-color: #DEB887;
