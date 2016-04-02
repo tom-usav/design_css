@@ -46,11 +46,13 @@ p {
 
 .section {
 
-  position: relative;
+  
 
 }
 .chicken {
   color: maroon;
+  position: relative;
+  
 
 }
 
