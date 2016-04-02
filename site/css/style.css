@@ -71,7 +71,7 @@ p {
 }
 .beef {
   color: maroon;
-  
+  position: relative;
   margin-left: 10px;
 
 }
