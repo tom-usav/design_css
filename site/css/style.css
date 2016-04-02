@@ -62,7 +62,7 @@ p {
 
 .chicken {
   color: maroon;
-  position: absolute;
+  position: relative;
   left: 150px;
 
 }
