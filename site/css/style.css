@@ -43,6 +43,17 @@ p {
 
 	width: 100%;
 }
+
+.section {
+
+  position: relative;
+
+}
+.chicken {
+  color: maroon;
+
+}
+
 /* 12 columns layout */
 @media (min-width: 992px) {
  
