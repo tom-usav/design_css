@@ -66,13 +66,13 @@ p {
 .chicken {
   color: maroon;
   
-  margin-right: 10px;
+  margin-left: 10px;
 
 }
 .beef {
   color: maroon;
   position: relative;
-  margin-left: 10px;
+  margin-right: 10px;
 
 }
 .fish {
