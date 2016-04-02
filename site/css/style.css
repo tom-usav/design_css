@@ -65,7 +65,7 @@ p {
 
 .chicken {
   color: maroon;
-  
+  position: relative;
   margin-right: 10px;
 
 }
@@ -77,7 +77,7 @@ p {
 }
 .fish {
   color: maroon;
-  
+  position: relative;
   margin-right: 10px;
 
 }
