@@ -23,7 +23,7 @@ h5 {
 
 p {
 
-	border: 1px solid green;
+	
 	background-color: #F0FFFF;
 	width: 90%;
 	height: 150px;
@@ -65,19 +65,19 @@ p {
 .chicken {
   color: maroon;
   
-  left: 10px;
+  margin-left: 10px;
 
 }
 .beef {
   color: maroon;
   
-  left: 10px;
+  margin-left: 10px;
 
 }
 .fish {
   color: maroon;
   
-  left: 10px;
+  margin-left: 10px;
 
 }
 /* 12 columns layout */
